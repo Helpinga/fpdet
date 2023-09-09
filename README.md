@@ -15,7 +15,7 @@
 - [License](#license)
 
 ## Introduction
-<img align='right' src="https://github.com/anupammaurya6767/FakeProfileIdentifier/blob/main/assets/fake.jpg" alt="Tanjiro-sama" width="300" height="400">
+<img align='right' src="https://github.com/anupammaurya6767/FakeProfileIdentifier/blob/main/assets/fake.jpg" alt="Tanjiro-sama" width="300" height="300">
 🕵️‍♂️ The Fake Profile Detector is a machine learning project designed to identify fake user profiles on social media and online platforms. In today's digital landscape, the proliferation of fake profiles poses significant challenges, including misinformation, scams, and cybersecurity threats. This project aims to combat these issues by developing a robust and accurate fake profile detection system.
 
 
