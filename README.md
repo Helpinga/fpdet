@@ -55,7 +55,7 @@ To set up the project, follow these steps:
 ```bash
 pip install -r requirements.txt
 ```
-3. Usage
+### Usage
 To use the Fake Profile Detector, follow these steps:
  - Data Preparation: Prepare your dataset with user profiles for fake profile detection.
 
@@ -66,19 +66,19 @@ To use the Fake Profile Detector, follow these steps:
  - Evaluation: Evaluate the model's performance using the provided evaluation metrics.
 
 
-4. Data
+###  Data
 The project uses a dataset containing user profiles with various features, including profile pictures, username characteristics, description length, and more. The dataset is stored in CSV format.
 
-5. Training and Model
+###  Training and Model
 The training process involves selecting and fine-tuning the machine learning model using the training dataset.
 
 
-6. Evaluation
+### Evaluation
 The project evaluates the model's performance using various metrics, including accuracy, precision, recall, F1-score, and ROC AUC.
 
 
 
-7. Contributing
+### Contributing
 Contributions to the Fake Profile Detector project are welcome! To contribute, please follow these guidelines:
 
  - Fork the repository.
@@ -86,5 +86,5 @@ Contributions to the Fake Profile Detector project are welcome! To contribute, p
  - Make your changes and test thoroughly.
  - Submit a pull request with a clear description of your changes.
 
-8. License
+### License
 This project is licensed under the MIT License.
